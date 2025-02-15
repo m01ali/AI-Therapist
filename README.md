@@ -97,5 +97,4 @@ The tool aims to identify distress signs in youth by analyzing text input using 
 ## Future Prospects
 
 - **Social Group Recommendations:** Integrate the ability to recommend online support groups or communities based on sentiment analysis.
-- **Enhanced User Interaction:** Expand features to facilitate peer connections beyond therapy.
 - **Advanced Social Network Analysis:** Apply NLP and graph-based analysis to map user connections and better match users with support resources, for example Therapists, Counselors or psychologists near their area.
