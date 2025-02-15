@@ -1,0 +1,39 @@
+# Ignore the virtual environment
+venv/
+
+# Ignore everything inside the data folder
+data/
+data/*
+
+# Ignore specific file types (PDFs and CSVs)
+*.pdf
+*.csv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore environment configuration files
+.env
+*.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore compiled files
+*.so
+*.o
+*.out
+*.a
